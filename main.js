@@ -1,5 +1,5 @@
 function addRowToGoogleSheet(rowData) {
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbwdNs3s_um0cm1sIXd5F1Lh6cW4G253_xP8ugT1LhNX6rFLoXsV0ixeVTHKIY6I_EXzxw/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzff621V8yEYEm1sddRap2CJYvbjMOTHOzhHHcSIFcSbTDk9YS25YLeNY7ljhsIGu6x/exec';
     
     fetch(scriptURL, {
       method: 'POST',
